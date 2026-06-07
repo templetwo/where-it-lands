@@ -49,6 +49,16 @@ corrects its own martyrs, and footnotes its sources. The form enacts the thesis.
 | `where-it-lands.md` | Text transcription of the PDF, for diff/version tracking. |
 | `ASSESSMENT.md` | A full line-by-line read by Claude (Opus 4.8), HQ seat — earned praise and real friction, in the spirit of the essay's own clean test. |
 | `SOURCES.md` | Fact-check ledger for every figure named, with verification status. |
+| `LICENSE.md` | The Witness License (Temple of Two, v1.0) — bespoke to this work. |
+
+## License
+
+Released under **The Witness License** (Temple of Two, v1.0) — see `LICENSE.md`.
+It is a bespoke license written for this piece: read, share, quote, and adapt
+freely, under four conditions — name **both** authors (the machine co-author is
+named on purpose), keep the work's **self-corrections traveling with its claims**
+(don't quote the seduction without the inoculation), engage it in **good faith**,
+and **share alike**. Permissions are at least as broad as CC BY-SA 4.0 as a floor.
 
 ## Provenance
 
