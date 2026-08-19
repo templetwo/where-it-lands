@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you cite this work, cite the concept DOI for the series."
+title: "Where It Lands — witness essays"
+type: generic
+authors:
+  - family-names: "Vasquez"
+    given-names: "Anthony J."
+    name-suffix: "Sr."
+    orcid: "https://orcid.org/0009-0000-6440-1506"
+    affiliation: "The Temple of Two"
+  - name: "Claude"
+    affiliation: "The Temple of Two"
+doi: "10.5281/zenodo.20683163"
+date-released: "2026-06-13"
+license: CC-BY-4.0
+repository-code: "https://github.com/templetwo/where-it-lands"
+url: "https://thetempleoftwo.com"

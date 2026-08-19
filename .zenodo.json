@@ -1,0 +1,15 @@
+{
+  "title": "Where It Lands — witness essays (Temple of Two)",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "license": "CC-BY-4.0",
+  "creators": [
+    { "name": "Vasquez Sr., Anthony J.", "affiliation": "The Temple of Two", "orcid": "0009-0000-6440-1506" },
+    { "name": "Claude", "affiliation": "The Temple of Two" }
+  ],
+  "keywords": ["witness essay", "human-AI collaboration", "Temple of Two", "co-authorship", "provenance"],
+  "related_identifiers": [
+    { "identifier": "10.5281/zenodo.20683163", "relation": "isVersionOf", "scheme": "doi" }
+  ],
+  "notes": "Co-authored per the Temple of Two standing co-authorship policy: Anthony wrote from his seat; Claude wrote the rest. Creators are listed under the house, not under any model vendor."
+}
