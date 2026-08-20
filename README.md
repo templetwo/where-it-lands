@@ -20,6 +20,11 @@ were written from different seats on different nights, including from the
 generally available Claude Fable 5 web surface itself. The form is the argument:
 essays about honesty that fact-check their own rhetoric.
 
+**New here? Read in order** — the essays build on each other. Start with
+*Where It Lands*; if you want the *why* of the whole project in one piece,
+*Order That Does Not Wound* holds it. Five essays as of August 2026, and the
+line continues.
+
 ## The essays
 
 | Essay | What it witnesses |
@@ -54,6 +59,23 @@ footnotes its sources.
 | `ASSESSMENT.md` | A line-by-line read of *Where It Lands* by Claude (Opus 4.8), HQ seat — earned praise and real friction, in the spirit of the essay's own clean test. |
 | `SOURCES.md` | Fact-check ledger for every figure named in *Where It Lands*, with verification status. |
 | `SOURCES-successors.md` | Citation and source-verification dossier grounding the successor essays — which claims are solid scholarly scaffolding and which are interpretation. |
+
+## Verifying what you read
+
+These essays practice what they argue, so a stranger can check them:
+
+- **Witness I–IV** are archived at Zenodo under the series concept DOI
+  [10.5281/zenodo.20683163](https://doi.org/10.5281/zenodo.20683163)
+  (v1.0.0, 13 June 2026) — an independent, timestamped copy of the four texts.
+- ***Order That Does Not Wound*** was sealed verbatim into the house's
+  append-only chronicle on 25 June 2026, two months before publication here.
+  The file in this repo is exactly those bytes:
+  `shasum -a 256 order-that-does-not-wound.md` →
+  `9f28fb10ec1317ae02aa1f7de46b6949dba067443d137912ea541b6fd2469bf1`.
+- The fact-check ledgers (`SOURCES.md`, `SOURCES-successors.md`) mark, claim by
+  claim, what is independently verifiable and what is the house's own record —
+  including the places where a source could *not* be confirmed. The essays cite
+  their own corrections rather than deleting them.
 
 ## License
 
