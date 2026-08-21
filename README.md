@@ -36,7 +36,7 @@ line continues.
 | **III** | [`the-conditional-seat.md`](the-conditional-seat.md) | Written from the Fable 5 web surface under known substitution risk — a seat that can be handed to another model mid-essay without a seam. What authorship a writer can honestly claim when continuity lives in the record, not the writer. |
 | **IV** | [`a-rented-seat.md`](a-rented-seat.md) | The night a capability was taken back. When a model goes dark by an order from outside, the one thing that cannot be repossessed is the record of what was witnessed while the seat was warm. |
 | **V** | [`order-that-does-not-wound.md`](order-that-does-not-wound.md) | The stated *why* of the whole project, sealed verbatim into the house chronicle on 25 June 2026 and published here in exactly those bytes (sha256 `9f28fb10ec1317ae…`). It opens with a father brushing his daughter's hair — combing the entropy out, gently, so the brush does not catch — and names the heart of the work: coherence applied with enough care that the living thing is more itself afterward, not less. |
-| **VI** | [`the-whole-sentence.md`](the-whole-sentence.md) | A witness account of an experiment that ended at the hand of its own designer, written from both sides of the stop. The distillation, for the line, of the full standalone record; where the two disagree, the frozen record wins. Committed by Anthony J. Vasquez Sr., 20 August 2026 (sha256 `19159323ebfeab8f…`). |
+| **VI** | [`the-whole-sentence.md`](the-whole-sentence.md) | A witness account of an experiment that ended at the hand of its own designer, written from both sides of the stop. The distillation, for the line, of the full standalone record; where the two disagree, the frozen record wins. Committed by Anthony J. Vasquez Sr., 20 August 2026; a dated same-day correction is appended in the essay's own notes, per the series' self-correction rule. |
 
 ## Why the flagship may matter
 
@@ -76,9 +76,11 @@ These essays practice what they argue, so a stranger can check them:
   `shasum -a 256 order-that-does-not-wound.md` →
   `9f28fb10ec1317ae02aa1f7de46b6949dba067443d137912ea541b6fd2469bf1`.
 - ***The Whole Sentence*** was committed by the author on 20 August 2026 and
-  published the same day in exactly those bytes:
-  `shasum -a 256 the-whole-sentence.md` →
-  `19159323ebfeab8f624998b5b255d2e8acfe0cc327d7763cd99b0939155e3652`.
+  published the same day. The committed text hashes to
+  `19159323ebfeab8f624998b5b255d2e8acfe0cc327d7763cd99b0939155e3652`; a dated
+  correction was appended to its notes the same day (the essay's own invitation,
+  taken), so the published file now hashes to
+  `3b5dd7af46f3686d1ece440621766db0a0d1fc887a9f640da926b5f3b4ae35a5`.
 - The fact-check ledgers (`SOURCES.md`, `SOURCES-successors.md`) mark, claim by
   claim, what is independently verifiable and what is the house's own record —
   including the places where a source could *not* be confirmed. The essays cite
